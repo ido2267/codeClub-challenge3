@@ -1,0 +1,50 @@
+body{
+  color:tomato;
+  background: #fafad2;
+}
+img{
+    width:600px;
+border: 1px solid black;
+border-radius: 10px;
+}
+H1{
+ text-align:left;
+  font-family: Courier ;
+font-size: 30pt;
+font-weight: bold;
+}
+
+H3{
+ text-align:left
+ font-family:   Comic Sans MS  
+font-size: 30pt;
+font-weight: bold;
+}
+h4{
+  font-family: Arial   ;
+  text-decoration: underline  ;
+   text-align:center;}
+ul{
+    font-family: Arial   ;
+font-size: 12pt;
+  text-align:left
+ list-style-type: square;
+
+}
+ 
+ol {
+  font-family: Tahoma   ;
+font-size: 12pt;
+text-align:left  
+}
+ 
+ li{
+  text-align:left  
+  }
+  
+  hr {
+    height: 2px;
+    border: none;
+    background-color: tomato;
+}
+
